@@ -4,7 +4,7 @@
  * 禁止放入學生名單、個人認證碼、試算表分享網址或 Google 表單編輯網址。
  */
 window.ISLAND_CONFIG = Object.freeze({
-  SITE_TITLE: '中山・未來嶼｜中山女高高二電資學群',
+  SITE_TITLE: '中山・未來嶼｜FUTURE ISLAND',
   // 正式 GAS 網頁應用程式網址，結尾必須是 /exec。留白時顯示尚未開放，不會假裝預約成功。
   GAS_URL: 'https://script.google.com/macros/s/AKfycbzANHsM-6963T5JHnCYNMXjgxLvMIMzxYyo-u6R_67j4r7LJwGuxnLCvG1yR4HzmCbr/exec',
   // Google 表單「填答網址」，可使用 https://forms.gle/... 或 .../viewform。
