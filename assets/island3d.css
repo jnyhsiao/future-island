@@ -1,3 +1,4 @@
+/* © 2026 CSGHS YuHsuan Hsiao. All rights reserved. 保留所有權利，未經作者書面同意不得重製、改作或散布。詳見 LICENSE。 */
 /* 3D island (scene3d.js), residents and chat (residents.js). */
 .is-3d .map-viewport{inset:0;z-index:0}.island-canvas{display:block;width:100%;height:100%;outline:none}
 .label-layer{position:absolute;inset:0;pointer-events:none;overflow:hidden}

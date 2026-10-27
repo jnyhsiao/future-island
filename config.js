@@ -1,3 +1,4 @@
+/* © 2026 CSGHS YuHsuan Hsiao. All rights reserved. 保留所有權利，未經作者書面同意不得重製、改作或散布。詳見 LICENSE。 */
 /**
  * 中山・未來嶼：公開設定（不是密鑰檔）。
  * 只需填好 GAS_URL 和 FORM_URL；其他值可以先保留。

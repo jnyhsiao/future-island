@@ -1,3 +1,4 @@
+/* © 2026 CSGHS YuHsuan Hsiao. All rights reserved. 保留所有權利，未經作者書面同意不得重製、改作或散布。詳見 LICENSE。 */
 /* 中山女高校園 3D 場景（草稿）。Original low-poly geometry built in code with Three.js r149 (assets/three.min.js).
    Building footprints and positions follow OpenStreetMap (© OpenStreetMap contributors, ODbL); heights, colours and
    details are stylised, not a survey model. If WebGL is unavailable this file does nothing and scene.js draws the SVG map.

@@ -1,0 +1,24 @@
+中山・未來嶼 FUTURE ISLAND
+Copyright © 2026 CSGHS YuHsuan Hsiao. All rights reserved.
+
+本網站的程式碼、3D 場景、角色設計、對話內容、版面與文字，著作權屬於作者所有。
+未經作者書面同意，不得重製、改作、散布、公開傳輸，或用於其他網站及商業用途。
+本儲存庫公開只是為了透過 GitHub Pages 架設網站，不代表授權他人使用。
+
+All code, 3D scenes, character designs, dialogue, layout and text in this repository are
+the copyrighted work of the author. No permission is granted to copy, modify, distribute,
+republish or reuse them, in whole or in part, without the author's prior written consent.
+This repository is public only so that GitHub Pages can serve the website.
+
+以下部分不屬於上述保留範圍，依其原授權條款使用：
+Third-party material, used under its own licence:
+
+- assets/three.min.js：Three.js r149，© 2010-2023 three.js authors，MIT License。
+- 校舍位置與輪廓：© OpenStreetMap 貢獻者（contributors），依 ODbL 授權使用。
+  Building footprints: © OpenStreetMap contributors, Open Database License (ODbL).
+
+網站中的校友角色為「校友靈感角色」，對話為原創教學內容，並非本人發言或代言。
+The alumni-inspired characters speak original, fictional teaching dialogue; they are not
+statements by, or endorsements from, the people who inspired them.
+
+聯絡授權：請洽作者。

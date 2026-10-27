@@ -1,3 +1,4 @@
+/* © 2026 CSGHS YuHsuan Hsiao. All rights reserved. 保留所有權利，未經作者書面同意不得重製、改作或散布。詳見 LICENSE。 */
 /* Public URL validation. This is not authentication or authorization. */
 (function (root) {
   'use strict';

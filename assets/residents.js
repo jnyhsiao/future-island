@@ -1,3 +1,4 @@
+/* © 2026 CSGHS YuHsuan Hsiao. All rights reserved. 保留所有權利，未經作者書面同意不得重製、改作或散布。詳見 LICENSE。 */
 /* 校友角色對話系統：角色、問答樹、導覽與校園護照。
    All replies are pre-written guide content (keyword matched); nothing is sent to a server or an AI service.
    Works with the 3D scene (window.Island3D) and degrades to a plain chat panel on the SVG fallback. */

@@ -1,3 +1,4 @@
+/* © 2026 CSGHS YuHsuan Hsiao. All rights reserved. 保留所有權利，未經作者書面同意不得重製、改作或散布。詳見 LICENSE。 */
 /* Original island interface. No external fonts or image assets. */
 :root{--sea:#aacbc6;--sea-deep:#92b9b5;--ivory:#faf8ef;--forest:#214c40;--olive:#72825b;--orange:#c35c3b;--stroke:#d8ded0}
 html,body{height:100%;overflow:hidden}body{background:var(--sea);color:var(--forest)}button{touch-action:manipulation}.island-home{height:100dvh;min-height:500px;position:relative;overflow:hidden;background:radial-gradient(ellipse at 50% 30%,#c5d9ce 0%,#a9c9c3 62%,#95bdb9 100%);isolation:isolate}

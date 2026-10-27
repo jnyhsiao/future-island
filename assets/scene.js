@@ -1,3 +1,4 @@
+/* © 2026 CSGHS YuHsuan Hsiao. All rights reserved. 保留所有權利，未經作者書面同意不得重製、改作或散布。詳見 LICENSE。 */
 /* 2D 校園平面圖：裝置跑不動 3D（沒有 WebGL 或 three.js 載入失敗）時才顯示。
    校舍位置與 scene3d.js 相同，取自 OpenStreetMap（© OpenStreetMap 貢獻者）；全部在本機用 SVG 畫出，不載入任何圖檔。 */
 (function(){
