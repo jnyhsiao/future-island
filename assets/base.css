@@ -1,0 +1,12 @@
+/* Shared primitives; no fonts or third-party libraries are downloaded. */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif; font-size: 15px; line-height: 1.65; }
+button, input, select { font: inherit; }
+button { cursor: pointer; }
+button, a { -webkit-tap-highlight-color: transparent; }
+[hidden] { display: none !important; }
+button:focus-visible, a:focus-visible { outline: 3px solid #a76d31; outline-offset: 4px; }
+.skip-link { position: fixed; left: 16px; top: -100px; z-index: 100; padding: 12px; background: white; color: #214c40; }
+.skip-link:focus { top: 12px; }
+.no-js-note { position: fixed; top: 20%; left: 10%; width: 80%; padding: 25px; background: #fff; z-index: 100; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; scroll-behavior: auto !important; } }
