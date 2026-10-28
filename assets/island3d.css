@@ -85,3 +85,7 @@
  .chat-open .intro-panel,.chat-open .trip-note{display:none}
 }
 @media(max-height:730px) and (min-width:721px){.chat-panel{top:20px;bottom:96px}}
+
+/* copyright line next to FUTURE ISLAND (visible on every screen size) */
+.island-brand .brand-copy{margin-left:.9em;padding-left:.9em;border-left:1px solid #c9d1c3;letter-spacing:.02em;white-space:nowrap}
+@media(max-width:720px){.island-brand .brand-copy{margin-left:.5em;padding-left:.5em;font-size:7.5px}}
