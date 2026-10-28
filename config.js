@@ -7,7 +7,7 @@
 window.ISLAND_CONFIG = Object.freeze({
   SITE_TITLE: '中山・未來嶼｜FUTURE ISLAND',
   // 正式 GAS 網頁應用程式網址，結尾必須是 /exec。留白時顯示尚未開放，不會假裝預約成功。
-  GAS_URL: 'https://script.google.com/macros/s/AKfycbzANHsM-6963T5JHnCYNMXjgxLvMIMzxYyo-u6R_67j4r7LJwGuxnLCvG1yR4HzmCbr/exec',
+  GAS_URL: 'https://script.google.com/macros/s/AKfycbzi2Nf5h7WXBOw74fvQx7LmFKeR9yf2dkndsS2ZiaZOgGoBPiS2_4W_EiO6Wamq0lGKVQ/exec',
   // Google 表單「填答網址」，可使用 https://forms.gle/... 或 .../viewform。
   FORM_URL: 'https://forms.gle/Lt1RgQB7qCEdxDY2A',
   // 保留原本的 Google 協作平台；不更動 www 的 DNS。
